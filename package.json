@@ -1,23 +1,27 @@
 {
     "name": "ethereal-nexus",
-    "@id": "m-metwally.ethereal-nexus",
+    "@id": "ethereal-nexus.m-metwally",
     "displayName": "Ethereal Nexus",
     "description": "Ethereal Nexus is a dark, immersive theme collection blending deep black backgrounds with six mystical hues: Rosewood Ember, Sandstone Whisper, Moonlit Frost, Ethereal Mist, Willow Wisp, and Sunlit Aura.",
-    "version": "1.0.4",
+    "version": "1.0.14",
     "publisher": "m.metwally",
+    "activationEvents": [
+        "onStartupFinished"
+    ],
+    "main": "./extension.js",
     "engines": {
         "vscode": "^1.70.0"
     },
     "galleryImages": [
         "images/ethereal-nexus-themes.png",
-        "images/ethereal-nexus-themes (1).png",
-        "images/ethereal-nexus-themes (2).png",
-        "images/ethereal-nexus-themes (3).png",
-        "images/ethereal-nexus-themes (4).png",
-        "images/ethereal-nexus-themes (5).png",
-        "images/ethereal-nexus-themes (6).png",
-        "images/ethereal-nexus-themes (7).png",
-        "images/ethereal-nexus-themes (8).png"
+        "images/ethereal-nexus-themes-1.png",
+        "images/ethereal-nexus-themes-2.png",
+        "images/ethereal-nexus-themes-3.png",
+        "images/ethereal-nexus-themes-4.png",
+        "images/ethereal-nexus-themes-5.png",
+        "images/ethereal-nexus-themes-6.png",
+        "images/ethereal-nexus-themes-7.png",
+        "images/ethereal-nexus-themes-8.png"
     ],
     "icon": "images/icon.png",
     "categories": [
