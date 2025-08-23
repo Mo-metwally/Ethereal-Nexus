@@ -32,43 +32,43 @@ This collection is designed to create a visually appealing, consistent, and read
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes.png" width="250"><br>
+      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes.png" width="333"><br>
       <b>Rosewood Ember</b>
     </td>
     <td align="center">
-      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-1.png" width="250"><br>
+      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-1.png" width="333"><br>
       <b>Ethereal Mist</b>
     </td>
     <td align="center">
-      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-2.png" width="250"><br>
+      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-2.png" width="333"><br>
       <b>Moonlit Frost</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-3.png" width="250"><br>
+      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-3.png" width="333"><br>
       <b>The House</b>
     </td>
     <td align="center">
-      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-5.png" width="250"><br>
+      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-5.png" width="333"><br>
       <b>Willow Wisp Forest</b>
+    </td>
+     <td align="center">
+      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-6.png" width="333"><br>
+      <b>Willow Wisp Classic</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-6.png" width="250"><br>
-      <b>Willow Wisp Classic</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-4.png" width="250"><br>
+      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-4.png" width="333"><br>
       <b>The House Nude</b>
     </td>
     <td align="center">
-      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-7.png" width="250"><br>
+      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-7.png" width="333"><br>
       <b>Sandstone Whisper</b>
     </td>
     <td align="center">
-      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-8.png" width="250"><br>
+      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-8.png" width="333"><br>
       <b>Sandstone Whisper Eclipse</b>
     </td>
     
