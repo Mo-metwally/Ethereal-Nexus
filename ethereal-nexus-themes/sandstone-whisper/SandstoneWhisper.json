@@ -1,0 +1,432 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Sandstone Whisper",
+  "type": "dark",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "colors": {
+    // "editor.background": "#0a0807",
+    "editor.background": "#141312",
+    "editor.foreground": "#e0d8d2",
+    "editorLineNumber.foreground": "#595959",
+    "editorLineNumber.activeForeground": "#F2BF80",
+    "editorCursor.foreground": "#b67f37",
+    "editor.selectionBackground": "#382000bb",
+    "editor.inactiveSelectionBackground": "#bf943667",
+    "editor.lineHighlightBackground": "#261C14",
+    "activityBar.background": "#080808",
+    "activityBar.foreground": "#997e5b",
+    "activityBar.activeBorder": "#997e5b",
+    "sideBar.background": "#141312",
+    "sideBar.foreground": "#d1c2b2",
+    "sideBar.border": "#997e5be7",
+    "statusBar.background": "#080808",
+    "statusBar.foreground": "#997e5b",
+    "statusBar.border": "#997e5b",
+    // الخلفية لما مفيش فولدر مفتوح
+    "statusBar.noFolderBackground": "#141312",
+    // الخلفية في وضع Debug
+    "statusBar.debuggingBackground": "#bf76368c",
+    // النصوص في وضع Debug
+    "statusBar.debuggingForeground": "#e0d8d2",
+    "statusBar.debuggingBorder": "#b67f37",
+    "statusBar.focusBorder": "#b67f37",
+    "statusBarItem.remoteBackground": "#b67f37",
+    "statusBarItem.remoteForeground": "#140e0c",
+    "statusBarItem.hoverBackground": "#140e0c",
+    "statusBarItem.hoverForeground": "#b67f37",
+    "titleBar.activeBackground": "#141312",
+    "titleBar.activeForeground": "#997e5b",
+    "menubar.selectionBackground": "#141312",
+    "menubar.selectionForeground": "#997e5b",
+    // لما تختار ملف وهو في Explorer نشط (focus عليه)
+    "list.activeSelectionBackground": "#261C14",
+    "list.activeSelectionForeground": "#F2BF80",
+    // لو الملف متحدد بس الـ Explorer نفسه مش في focus
+    "list.inactiveSelectionBackground": "#262626",
+    "list.inactiveSelectionForeground": "#F2BF80",
+    // "list.Border": "#261C14",
+    // لما تعدي الماوس بس فوق الملف (hover)
+    "list.hoverBackground": "#262626",
+    "list.hoverForeground": "#997e5b",
+    "list.focusOutline": "#b67f37",
+    "list.focusAndSelectionOutline": "#b67f37",
+    // الخلفية العامة لشريط التابّات
+    "editorGroupHeader.tabsBackground": "#141312",
+    // لون البوردر أسفل الشريط
+    "editorGroupHeader.tabsBorder": "#292623b9",
+    // لون الفولدرات المتوسعة/المقفولة (الأيقونة + النصوص)
+    "list.dropBackground": "#313131",
+    // خلفية المينيماب بالكامل
+    "minimap.background": "#161515c5",
+    // لون النصوص المصغرة
+    "minimap.foregroundOpacity": "#302118d7",
+    // لو عايز تغيّر لون الـ slider (المستطيل اللي بيحدد الجزء الظاهر من الكود)
+    "minimap.selectionHighlight": "#ff99008e",
+    "minimap.selectionOccurrenceHighlight": "#ff99008e",
+    "minimap.infoHighlight": "#b67f37",
+    "minimap.findMatchHighlight": "#71d400af",
+    "minimap.errorHighlight": "#ff0040",
+    "minimap.warningHighlight": "#d5ff3b",
+    "panel.background": "#141312",
+    "panel.border": "#997e5b",
+    "panelInput.border": "#997e5b",
+    "panelTitle.activeForeground": "#F2BF80",
+    "panelSection.dropBackground": "#b67f37",
+    "panelSection.border": "#b67f37",
+    "tab.activeBackground": "#141312",
+    "tab.activeForeground": "#F2BF80",
+    "tab.inactiveBackground": "#242221",
+    "tab.inactiveForeground": "#595959",
+    "tab.activeBorderTop": "#997e5b",
+    "tab.border": "#997e5b",
+    "button.background": "#8C715A",
+    "button.hoverBackground": "#997e5b",
+    "button.foreground": "#FBF7F3",
+    "input.background": "#59403bbd",
+    "input.foreground": "#e6ded2",
+    "input.border": "#997e5b",
+    "panelTitleBadge.background": "#b67f37",
+    "panelTitleBadge.foreground": "#e6ded2",
+    // لون خلفية الدائرة
+    "badge.background": "#b67f37",
+    // لون النص/الأيقونة جواها
+    "badge.foreground": "#e6ded2",
+    "activityBarBadge.background": "#b67f37",
+    "activityBarBadge.foreground": "#e6ded2",
+    "panel.dropBorder": "#b67f37",
+    "editorWidget.resizeBorder": "#b67f37",
+    // ألوان الـ ANSI (النصوص الملونة حسب أوامر التيرمنال)=================================================================
+    "terminal.ansiBlack": "#000000",
+    "terminal.ansiRed": "#FF5555",
+    "terminal.ansiGreen": "#50FA7B",
+    "terminal.ansiYellow": "#F1FA8C",
+    "terminal.ansiBlue": "#6272A4",
+    "terminal.ansiMagenta": "#FF79C6",
+    "terminal.ansiCyan": "#8BE9FD",
+    "terminal.ansiWhite": "#BFBFBF",
+    "terminal.ansiBrightBlack": "#4D4D4D",
+    "terminal.ansiBrightRed": "#FF6E67",
+    "terminal.ansiBrightGreen": "#5AF78E",
+    "terminal.ansiBrightYellow": "#F4F99D",
+    "terminal.ansiBrightBlue": "#8BE9FD",
+    "terminal.ansiBrightMagenta": "#FF92D0",
+    "terminal.ansiBrightCyan": "#9AEDFE",
+    "terminal.ansiBrightWhite": "#FFFFFF",
+    "editor.selectionForeground": "#FFFFFF",
+    // نص العنصر المحدد
+    // تخصيص ألوان التيرمنال
+    "terminal.background": "#1e1e1e00",
+    // الخلفية الشفافة
+    "terminal.foreground": "#fdecdd",
+    // النص في التيرمنال
+    "terminal.selectionBackground": "#834d20d3",
+    // خلفية النص المحدد في التيرمنال
+    "terminalCursor.background": "#997e5b",
+    // خلفية المؤشر في التيرمنال
+    // تخصيص ألوان الـ ANSI (التيرمنال)
+    // تخصيص ألوان التحديد في التيرمنال
+    "terminal.selectionForeground": "#fffbf3",
+    // لون النص المحدد
+    "terminal.inactiveSelectionBackground": "#3E2A1F",
+    // خلفية النص المحدد عندما لا يكون التيرمنال في التركيز
+    // تخصيص ألوان البحث في التيرمنال
+    "terminal.findMatchBackground": "#ff79c5d3",
+    // خلفية التحديد عند البحث في التيرمنال
+    "terminal.findMatchBorder": "#FF5555",
+    // حدود التحديد عند البحث في التيرمنال
+    "terminal.findMatchHighlightBackground": "#50fa7acc",
+    // خلفية التحديد عند البحث في التيرمنال
+    "terminal.findMatchHighlightBorder": "#70FF73",
+    // حدود التحديد عند البحث في التيرمنال
+    // تخصيص التظليل عند تمرير الماوس على رابط في التيرمنال
+    "terminal.hoverHighlightBackground": "#8be8fd9a",
+    // التظليل عند المرور على رابط في التيرمنال
+    // تخصيص ألوان الكرسر في التيرمنال
+    "terminalCursor.foreground": "#F2BF80",
+    // لون المؤشر في التيرمنال
+    // تخصيص خلفية السحب فوق التيرمنال
+    "terminal.dropBackground": "#1E1E1E80",
+    // الخلفية أثناء السحب في التيرمنال
+    // تخصيص حدود التاب في التيرمنال
+    "terminal.tab.activeBorder": "#FF6E67",
+    // حدود التاب النشط في التيرمنال
+    // تخصيص ألوان الزخارف (الرموز والأوامر) في التيرمنال
+    "terminalCommandDecoration.defaultBackground": "#F1FA8C",
+    // خلفية الزخارف الافتراضية للأوامر
+    "terminalCommandDecoration.successBackground": "#70FF73",
+    // خلفية الزخارف للأوامر الناجحة
+    "terminalCommandDecoration.errorBackground": "#FF5555",
+    // خلفية الزخارف للأوامر الفاشلة
+    // تخصيص الألوان في مشاهد التيرمنال عند التمرير
+    "terminalStickyScroll.background": "#4A90E2",
+    // خلفية التمرير الثابت في التيرمنال
+    "terminalStickyScroll.border": "#70FF73",
+    // حدود التمرير الثابت في التيرمنال
+    "terminalStickyScrollHover.background": "#FF79C6",
+    // خلفية التمرير الثابت عند التمرير بالماوس
+    // تخصيص الألوان المتعلقة بالإشعارات في التيرمنال
+    "terminal.initialHintForeground": "#FFEA00",
+    // لون الإشعار الأولي في التيرمنال
+    "terminalOverviewRuler.cursorForeground": "#FF6E67",
+    // لون مؤشر المعاينة في التيرمنال
+    "terminalOverviewRuler.findMatchForeground": "#FF79C6",
+    // لون مشاهد البحث في التيرمنال
+    "terminalOverviewRuler.border": "#FF5555",
+    // حدود المعاينة في التيرمنال
+    // تخصيص الرموز في التيرمنال
+    "terminalSymbolIcon.aliasForeground": "#70FF73",
+    // لون رمز الـ alias في التيرمنال
+    "terminalSymbolIcon.flagForeground": "#FFEA00",
+    // لون رمز الـ flag في التيرمنال
+    "terminalSymbolIcon.optionForeground": "#FF6E67",
+    // لون رمز الـ option في التيرمنال
+    "terminalSymbolIcon.optionValueForeground": "#F1FA8C",
+    // لون رمز قيمة الـ option في التيرمنال
+    "terminalSymbolIcon.methodForeground": "#8BE9FD",
+    // لون رمز الطريقة (method) في التيرمنال
+    "terminalSymbolIcon.argumentForeground": "#5c5050",
+    // لون رمز الـ argument في التيرمنال
+    "terminalSymbolIcon.inlineSuggestionForeground": "#50FA7B",
+    // لون رمز الإقتراحات المدمجة في التيرمنال
+    "terminalSymbolIcon.fileForeground": "#FF79C6",
+    // لون رمز الملف في التيرمنال
+    "terminalSymbolIcon.folderForeground": "#4A90E2",
+    // لون رمز المجلد في التيرمنال
+    "terminalSymbolIcon.symbolicLinkFileForeground": "#FF5555",
+    // لون رمز الرابط الرمزي للملف في التيرمنال
+    "terminalSymbolIcon.symbolicLinkFolderForeground": "#FFEA00"
+    // لون رمز الرابط الرمزي للمجلد في التيرمنال
+  },
+  "terminal.integrated.fontFamily": "Fira Code",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontWeight": "bold",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "newOperator": "#d4d4d4",
+    "stringLiteral": "#ce9178",
+    "customLiteral": "#D4D4D4",
+    "numberLiteral": "#cea8b8",
+    "variable.readonly": "#e8c07d",
+    "variable": "#9cdcfe"
+  },
+  // ✨ Syntax Coloring
+  "tokenColors": [
+    // ----------------------
+    // Comments
+    // ----------------------
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#777266",
+        "fontStyle": "italic"
+      }
+    },
+    // ----------------------
+    // Strings & Numbers
+    // ----------------------
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#eecd8f"
+      }
+    },
+    {
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#D9904E"
+      }
+    },
+    // ----------------------
+    // Keywords (const, let, return...)
+    // ----------------------
+    {
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#d1b99a",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "storage",
+        "storage.type"
+      ],
+      "settings": {
+        "foreground": "#D68C6A",
+        "fontStyle": "bold"
+      }
+    },
+    // ----------------------
+    // Functions
+    // ----------------------
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#B67F37",
+        "fontStyle": "bold"
+      }
+    },
+    // ----------------------
+    // Variables & Constants
+    // ----------------------
+    {
+      "scope": [
+        "variable",
+        "meta.definition.variable.name",
+        "support.variable",
+        "entity.name.variable"
+      ],
+      "settings": {
+        "foreground": "#C8B79D" // المتغيرات
+      }
+    },
+    {
+      "scope": [
+        "variable.other.constant"
+      ],
+      "settings": {
+        "foreground": "#FFB366", // الثوابت
+        "fontStyle": "bold"
+      }
+    },
+    // ----------------------
+    // HTML / JSX Tags
+    // ----------------------
+    {
+      "scope": [
+        "entity.name.tag",
+        "entity.name.tag.html",
+        "entity.name.tag.js.jsx",
+        "entity.name.tag.tsx"
+      ],
+      "settings": {
+        "foreground": "#be8863",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "support.class.component.js.jsx"
+      ],
+      "settings": {
+        "foreground": "#ff7f29", // React Components
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.tag.begin",
+        "punctuation.definition.tag.end"
+      ],
+      "settings": {
+        "foreground": "#B0BEC5"
+      }
+    },
+    // ----------------------
+    // HTML / JSX Attributes
+    // ----------------------
+    {
+      "scope": [
+        "entity.other.attribute-name",
+        "entity.other.attribute-name.html",
+        "entity.other.attribute-name.jsx",
+        "entity.other.attribute-name.class.html",
+        "entity.other.attribute-name.id.html",
+        "entity.other.attribute-name.class.jsx",
+        "entity.other.attribute-name.id.jsx",
+      ],
+      "settings": {
+        "foreground": "#c48d8d",
+        "fontStyle": "italic"
+      }
+    },
+    // ----------------------
+    // CSS Selectors & Props
+    // ----------------------
+    {
+      "scope": [
+        "entity.name.tag.css",
+        "entity.other.attribute-name.class.css",
+        "entity.other.attribute-name.id.css"
+      ],
+      "settings": {
+        "foreground": "#f3cbc8"
+      }
+    },
+    {
+      "scope": [
+        "support.type.property-name.css",
+        "support.type.property-name.scss",
+        "support.type.property-name.less"
+      ],
+      "settings": {
+        "foreground": "#be8863"
+      }
+    },
+    {
+      "scope": [
+        "support.constant.property-value.css",
+        "support.constant.color.w3c-standard-color-name.css",
+        "constant.other.color.rgb-value.css"
+      ],
+      "settings": {
+        "foreground": "#E6C07B"
+      }
+    },
+    // ----------------------
+    // JSON Keys
+    // ----------------------
+    {
+      "scope": [
+        "support.type.property-name.json"
+      ],
+      "settings": {
+        "foreground": "#fe9c9c",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "string.quoted.double.json"
+      ],
+      "settings": {
+        "foreground": "#ccb07c"
+      }
+    },
+    // ----------------------
+    // JS Specific
+    // ----------------------
+    {
+      "scope": [
+        "variable.other.readwrite.js",
+        "variable.other.readwrite.ts"
+      ],
+      "settings": {
+        "foreground": "#C8B79D"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "meta.embedded.assembly"
+      ],
+      "settings": {
+        "foreground": "#f3cbc8"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.constant.js",
+        "variable.other.constant.ts"
+      ],
+      "settings": {
+        "foreground": "#FFB366",
+        "fontStyle": "bold"
+      }
+    }
+  ]
+}

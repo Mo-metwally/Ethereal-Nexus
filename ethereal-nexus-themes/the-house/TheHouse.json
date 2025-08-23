@@ -1,0 +1,235 @@
+{
+    "$schema": "vscode://schemas/color-theme",
+    "name": "The House",
+    "type": "dark",
+    "colors": {
+        "editor.background": "#0D0D0D",
+        "editor.foreground": "#D9BEA7",
+        "editorLineNumber.foreground": "#59493B",
+        "editorLineNumber.activeForeground": "#D9BEA7",
+        "editorCursor.foreground": "#D9BEA7",
+        "editor.selectionBackground": "#59493B",
+        "editor.inactiveSelectionBackground": "#400505ab",
+        "editor.lineHighlightBackground": "#400505",
+        "activityBar.background": "#0D0D0D",
+        "activityBar.foreground": "#D9BEA7",
+        "activityBar.activeBorder": "#730202",
+        "sideBar.background": "#0D0D0D",
+        "sideBar.foreground": "#D9BEA7",
+        "sideBar.border": "#59493B",
+        "statusBar.background": "#0D0D0D",
+        "statusBar.foreground": "#D9BEA7",
+        "statusBar.border": "#59493B",
+        "titleBar.activeBackground": "#0D0D0D",
+        "panel.background": "#0D0D0D",
+        "panel.border": "#59493B",
+        "panelTitle.activeForeground": "#D9BEA7",
+        "tab.activeBackground": "#400505",
+        "tab.activeForeground": "#D9BEA7",
+        "tab.inactiveBackground": "#0D0D0D",
+        "tab.inactiveForeground": "#59493B",
+        "button.background": "#59493B",
+        "button.hoverBackground": "#D9BEA7",
+        "button.foreground": "#0D0D0D",
+        "input.background": "#400505",
+        "input.foreground": "#D9BEA7",
+        "input.border": "#59493B",
+        "statusBar.noFolderBackground": "#0D0D0D",
+        "statusBar.debuggingBackground": "#730202",
+        "statusBar.debuggingForeground": "#D9BEA7",
+        "statusBar.debuggingBorder": "#59493B",
+        "statusBar.focusBorder": "#D9BEA7",
+        "statusBarItem.remoteBackground": "#59493B",
+        "statusBarItem.remoteForeground": "#D9BEA7",
+        "statusBarItem.hoverBackground": "#400505",
+        "statusBarItem.hoverForeground": "#D9BEA7",
+        "titleBar.activeForeground": "#D9BEA7",
+        "menubar.selectionBackground": "#0D0D0D",
+        "menubar.selectionForeground": "#D9BEA7",
+        "list.activeSelectionBackground": "#400505",
+        "list.activeSelectionForeground": "#D9BEA7",
+        "list.inactiveSelectionBackground": "#59493B",
+        "list.inactiveSelectionForeground": "#D9BEA7",
+        "list.hoverBackground": "#400505",
+        "list.hoverForeground": "#D9BEA7",
+        "list.focusOutline": "#D9BEA7",
+        "list.focusAndSelectionOutline": "#D9BEA7",
+        "editorGroupHeader.tabsBackground": "#0D0D0D",
+        "editorGroupHeader.tabsBorder": "#59493B",
+        "list.dropBackground": "#400505",
+        "minimap.background": "#0D0D0D",
+        "minimap.foregroundOpacity": "#59493B",
+        "minimap.selectionHighlight": "#d9bea7ce",
+        "minimap.selectionOccurrenceHighlight": "#d9bea7a9",
+        "minimap.infoHighlight": "#59493B",
+        "minimap.findMatchHighlight": "#d9bea7e3",
+        "minimap.errorHighlight": "#730202",
+        "minimap.warningHighlight": "#D9BEA7",
+        "panelInput.border": "#59493B",
+        "panelSection.dropBackground": "#400505",
+        "panelSection.border": "#59493B",
+        "tab.activeBorderTop": "#D9BEA7",
+        "tab.border": "#D9BEA7",
+        "panelTitleBadge.background": "#D9BEA7",
+        "panelTitleBadge.foreground": "#0D0D0D",
+        "badge.background": "#D9BEA7",
+        "badge.foreground": "#0D0D0D",
+        "activityBarBadge.background": "#D9BEA7",
+        "activityBarBadge.foreground": "#0D0D0D",
+        "panel.dropBorder": "#59493B",
+        "editorWidget.resizeBorder": "#59493B",
+        // ألوان الـ ANSI (النصوص الملونة حسب أوامر التيرمنال)=================================================================
+        "terminal.ansiBlack": "#000000",
+        "terminal.ansiRed": "#FF5555",
+        "terminal.ansiGreen": "#50FA7B",
+        "terminal.ansiYellow": "#F1FA8C",
+        "terminal.ansiBlue": "#6272A4",
+        "terminal.ansiMagenta": "#FF79C6",
+        "terminal.ansiCyan": "#8BE9FD",
+        "terminal.ansiWhite": "#BFBFBF",
+        "terminal.ansiBrightBlack": "#4D4D4D",
+        "terminal.ansiBrightRed": "#FF6E67",
+        "terminal.ansiBrightGreen": "#5AF78E",
+        "terminal.ansiBrightYellow": "#F4F99D",
+        "terminal.ansiBrightBlue": "#8BE9FD",
+        "terminal.ansiBrightMagenta": "#FF92D0",
+        "terminal.ansiBrightCyan": "#9AEDFE",
+        "terminal.ansiBrightWhite": "#FFFFFF",
+        "editor.selectionForeground": "#FFFFFF", // نص العنصر المحدد
+        // تخصيص ألوان التيرمنال
+        "terminal.background": "#1e1e1e00", // الخلفية الشفافة
+        "terminal.foreground": "#fdecdd", // النص في التيرمنال
+        "terminal.selectionBackground": "#855834d3", // خلفية النص المحدد في التيرمنال
+        "terminalCursor.background": "#995b5b", // خلفية المؤشر في التيرمنال
+        // تخصيص ألوان الـ ANSI (التيرمنال)
+        // تخصيص ألوان التحديد في التيرمنال
+        "terminal.selectionForeground": "#fffbf3", // لون النص المحدد
+        "terminal.inactiveSelectionBackground": "#3E2A1F", // خلفية النص المحدد عندما لا يكون التيرمنال في التركيز
+        // تخصيص ألوان البحث في التيرمنال
+        "terminal.findMatchBackground": "#ff79c5d3", // خلفية التحديد عند البحث في التيرمنال
+        "terminal.findMatchBorder": "#FF5555", // حدود التحديد عند البحث في التيرمنال
+        "terminal.findMatchHighlightBackground": "#50fa7acc", // خلفية التحديد عند البحث في التيرمنال
+        "terminal.findMatchHighlightBorder": "#70FF73", // حدود التحديد عند البحث في التيرمنال
+        // تخصيص التظليل عند تمرير الماوس على رابط في التيرمنال
+        "terminal.hoverHighlightBackground": "#8be8fd9a", // التظليل عند المرور على رابط في التيرمنال
+        // تخصيص ألوان الكرسر في التيرمنال
+        "terminalCursor.foreground": "#ff6262", // لون المؤشر في التيرمنال
+        // تخصيص خلفية السحب فوق التيرمنال
+        "terminal.dropBackground": "#1E1E1E80", // الخلفية أثناء السحب في التيرمنال
+        // تخصيص حدود التاب في التيرمنال
+        "terminal.tab.activeBorder": "#FF6E67", // حدود التاب النشط في التيرمنال
+        // تخصيص ألوان الزخارف (الرموز والأوامر) في التيرمنال
+        "terminalCommandDecoration.defaultBackground": "#F1FA8C", // خلفية الزخارف الافتراضية للأوامر
+        "terminalCommandDecoration.successBackground": "#70FF73", // خلفية الزخارف للأوامر الناجحة
+        "terminalCommandDecoration.errorBackground": "#FF5555", // خلفية الزخارف للأوامر الفاشلة
+        // تخصيص الألوان في مشاهد التيرمنال عند التمرير
+        "terminalStickyScroll.background": "#4A90E2", // خلفية التمرير الثابت في التيرمنال
+        "terminalStickyScroll.border": "#70FF73", // حدود التمرير الثابت في التيرمنال
+        "terminalStickyScrollHover.background": "#FF79C6", // خلفية التمرير الثابت عند التمرير بالماوس
+        // تخصيص الألوان المتعلقة بالإشعارات في التيرمنال
+        "terminal.initialHintForeground": "#FFEA00", // لون الإشعار الأولي في التيرمنال
+        "terminalOverviewRuler.cursorForeground": "#FF6E67", // لون مؤشر المعاينة في التيرمنال
+        "terminalOverviewRuler.findMatchForeground": "#FF79C6", // لون مشاهد البحث في التيرمنال
+        "terminalOverviewRuler.border": "#FF5555", // حدود المعاينة في التيرمنال
+        // تخصيص الرموز في التيرمنال
+        "terminalSymbolIcon.aliasForeground": "#70FF73", // لون رمز الـ alias في التيرمنال
+        "terminalSymbolIcon.flagForeground": "#FFEA00", // لون رمز الـ flag في التيرمنال
+        "terminalSymbolIcon.optionForeground": "#FF6E67", // لون رمز الـ option في التيرمنال
+        "terminalSymbolIcon.optionValueForeground": "#F1FA8C", // لون رمز قيمة الـ option في التيرمنال
+        "terminalSymbolIcon.methodForeground": "#8BE9FD", // لون رمز الطريقة (method) في التيرمنال
+        "terminalSymbolIcon.argumentForeground": "#5c5050", // لون رمز الـ argument في التيرمنال
+        "terminalSymbolIcon.inlineSuggestionForeground": "#50FA7B", // لون رمز الإقتراحات المدمجة في التيرمنال
+        "terminalSymbolIcon.fileForeground": "#FF79C6", // لون رمز الملف في التيرمنال
+        "terminalSymbolIcon.folderForeground": "#4A90E2", // لون رمز المجلد في التيرمنال
+        "terminalSymbolIcon.symbolicLinkFileForeground": "#FF5555", // لون رمز الرابط الرمزي للملف في التيرمنال
+        "terminalSymbolIcon.symbolicLinkFolderForeground": "#FFEA00" // لون رمز الرابط الرمزي للمجلد في التيرمنال
+    },
+    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontWeight": "bold",
+    "tokenColors": [
+        {
+            "scope": [
+                "keyword",
+                "storage.type"
+            ],
+            "settings": {
+                "foreground": "#730202"
+            }
+        },
+        {
+            "scope": [
+                "string"
+            ],
+            "settings": {
+                "foreground": "#D9BEA7"
+            }
+        },
+        {
+            "scope": [
+                "variable",
+                "parameter"
+            ],
+            "settings": {
+                "foreground": "#755f49"
+            }
+        },
+        {
+            "scope": [
+                "comment"
+            ],
+            "settings": {
+                "foreground": "#684545",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": [
+                "function",
+                "entity.name.function"
+            ],
+            "settings": {
+                "foreground": "#D9BEA7",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": [
+                "constant.numeric"
+            ],
+            "settings": {
+                "foreground": "#730202"
+            }
+        },
+        {
+            "scope": [
+                "type",
+                "entity.name.type",
+                "support.type"
+            ],
+            "settings": {
+                "foreground": "#d68585ff",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": [
+                "keyword.operator",
+                "punctuation.separator",
+                "punctuation.definition"
+            ],
+            "settings": {
+                "foreground": "#730202"
+            }
+        },
+        {
+            "scope": [
+                "support.function",
+                "support.constant"
+            ],
+            "settings": {
+                "foreground": "#D9BEA7"
+            }
+        }
+    ]
+}

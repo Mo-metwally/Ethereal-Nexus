@@ -1,0 +1,180 @@
+{
+    "name": "ethereal-nexus",
+    "@id": "m-metwally.ethereal-nexus",
+    "displayName": "Ethereal Nexus",
+    "description": "Ethereal Nexus is a dark, immersive theme collection blending deep black backgrounds with six mystical hues: Rosewood Ember, Sandstone Whisper, Moonlit Frost, Ethereal Mist, Willow Wisp, and Sunlit Aura.",
+    "version": "1.0.0",
+    "publisher": "m.metwally",
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "icon": "images/icon.png",
+    "galleryImages": [
+        "images/screenshot1.png",
+        "images/screenshot2.png",
+        "images/screenshot3.png"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "dark",
+        "theme",
+        "VS Code",
+        "Ethereal",
+        "Nexus",
+        "custom colors"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Mo-metwally/Ethereal-Nexus"
+    },
+    "bugs": {
+        "url": "https://github.com/Mo-metwally/Ethereal-Nexus/issues"
+    },
+    "homepage": "https://github.com/Mo-metwally/Ethereal-Nexus",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rosewood Ember",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/rosewood-ember/RosewoodEmber.json"
+            },
+            {
+                "label": "Rosewood Ember Atom",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/rosewood-ember/RosewoodEmberAtom.json"
+            },
+            {
+                "label": "Rosewood Ember Classic",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/rosewood-ember/RosewoodEmberClassic.json"
+            },
+            {
+                "label": "Rosewood Ember Dust",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/rosewood-ember/RosewoodEmberDust.json"
+            },
+            {
+                "label": "Sandstone Whisper",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/sandstone-whisper/SandstoneWhisper.json"
+            },
+            {
+                "label": "Sandstone Whisper Atom",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/sandstone-whisper/SandstoneWhisperAtom.json"
+            },
+            {
+                "label": "Sandstone Whisper Classic",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/sandstone-whisper/SandstoneWhisperClassic.json"
+            },
+            {
+                "label": "Sandstone Whisper Eclipse",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/sandstone-whisper/SandstoneWhisperEclipse.json"
+            },
+            {
+                "label": "Moonlit Frost",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/moonlit-frost/MoonlitFrost.json"
+            },
+            {
+                "label": "Moonlit Frost Atom",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/moonlit-frost/MoonlitFrostAtom.json"
+            },
+            {
+                "label": "Moonlit Frost Classic",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/moonlit-frost/MoonlitFrostClassic.json"
+            },
+            {
+                "label": "Moonlit Frost Ocean",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/moonlit-frost/MoonlitFrostOcean.json"
+            },
+            {
+                "label": "Ethereal Mist",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/ethereal-mist/EtherealMist.json"
+            },
+            {
+                "label": "Ethereal Mist Atom",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/ethereal-mist/EtherealMistAtom.json"
+            },
+            {
+                "label": "Ethereal Mist Classic",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/ethereal-mist/EtherealMistClassic.json"
+            },
+            {
+                "label": "Ethereal Mist Eclipse",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/ethereal-mist/EtherealMistEclipse.json"
+            },
+            {
+                "label": "Willow Wisp",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/willow-wisp/WillowWisp.json"
+            },
+            {
+                "label": "Willow Wisp Atom",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/willow-wisp/WillowWispAtom.json"
+            },
+            {
+                "label": "Willow Wisp Classic",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/willow-wisp/WillowWispClassic.json"
+            },
+            {
+                "label": "Willow Wisp Frost",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/willow-wisp/WillowWispForst.json"
+            },
+            {
+                "label": "The House",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/the-house/TheHouse.json"
+            },
+            {
+                "label": "The House Atom",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/the-house/TheHouseAtom.json"
+            },
+            {
+                "label": "The House Classic",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/the-house/TheHouseClassic.json"
+            },
+            {
+                "label": "The House Mine",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/the-house/TheHouseMine.json"
+            },
+            {
+                "label": "The House Nude",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/the-house/TheHouseNude.json"
+            },
+            {
+                "label": "The House Nude Atom",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/the-house/TheHouseNudeAtom.json"
+            },
+            {
+                "label": "The House Nude Classic",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/the-house/TheHouseNudeClassic.json"
+            },
+            {
+                "label": "The House Nude Mine",
+                "uiTheme": "vs-dark",
+                "path": "./ethereal-nexus-themes/the-house/TheHouseNudeMine.json"
+            }
+        ]
+    }
+}
