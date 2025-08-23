@@ -24,18 +24,116 @@ This collection is designed to create a visually appealing, consistent, and read
 
 ## Theme Previews
 
-![Ethereal Nexus](images/ethereal-nexus-themes.png)  
-![Ethereal Nexus 1](images/ethereal-nexus-themes-1.png)  
-![Ethereal Nexus 2](images/ethereal-nexus-themes-2.png)  
-![Ethereal Nexus 3](images/ethereal-nexus-themes-3.png)  
-![Ethereal Nexus 4](images/ethereal-nexus-themes-4.png)  
-![Ethereal Nexus 5](images/ethereal-nexus-themes-5.png)  
-![Ethereal Nexus 6](images/ethereal-nexus-themes-6.png)  
-![Ethereal Nexus 7](images/ethereal-nexus-themes-7.png)  
-![Ethereal Nexus 8](images/ethereal-nexus-themes-8.png)  
+<p align="center">
+  <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes.png" width="500"><br>
+  <b>Showcase</b>
+</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes.png" width="250"><br>
+      <b>Rosewood Ember</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-1.png" width="250"><br>
+      <b>Ethereal Mist</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-2.png" width="250"><br>
+      <b>Moonlit Frost</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-3.png" width="250"><br>
+      <b>The House</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-5.png" width="250"><br>
+      <b>Willow Wisp Forest</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-6.png" width="250"><br>
+      <b>Willow Wisp Classic</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-4.png" width="250"><br>
+      <b>The House Nude</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-7.png" width="250"><br>
+      <b>Sandstone Whisper</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-8.png" width="250"><br>
+      <b>Sandstone Whisper Eclipse</b>
+    </td>
+    
+  </tr>
+</table>
+
+<p align="center">
+  <b>Full Preview</b>
+</p>
+
+<p align="left">
+  <b>Rosewood Ember</b><br>
+  <i>A warm, rustic theme with deep red and ember tones for a cozy atmosphere.</i><br><br>
+  <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes.png" width="100%">
+</p>
+
+<p align="left">
+  <b>Ethereal Mist</b><br>
+  <i>A soft, dreamy palette with foggy grays and subtle highlights for calm focus.</i><br><br>
+  <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-1.png" width="100%">
+</p>
+
+<p align="left">
+  <b>Moonlit Frost</b><br>
+  <i>A cool and minimal theme inspired by moonlight and icy blues.</i><br><br>
+  <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-2.png" width="100%">
+</p>
+
+<p align="left">
+  <b>The House</b><br>
+  <i>A modern home-inspired theme with clean lines and balanced contrast.</i><br><br>
+  <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-3.png" width="100%">
+</p>
+
+<p align="left">
+  <b>The House Nude</b><br>
+  <i>A lighter variation of “The House” with soft, neutral colors.</i><br><br>
+  <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-4.png" width="100%">
+</p>
+
+<p align="left">
+  <b>Willow Wisp Forest</b><br>
+  <i>A dark green forest-inspired theme with mysterious glowing accents.</i><br><br>
+  <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-5.png" width="100%">
+</p>
+
+<p align="left">
+  <b>Willow Wisp Classic</b><br>
+  <i>A timeless variant of Willow Wisp with traditional dark styling.</i><br><br>
+  <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-6.png" width="100%">
+</p>
+
+<p align="left">
+  <b>Sandstone Whisper</b><br>
+  <i>A warm sandy theme with soft beige and desert-inspired hues.</i><br><br>
+  <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-7.png" width="100%">
+</p>
+
+<p align="left">
+  <b>Sandstone Whisper Eclipse</b><br>
+  <i>A darker desert-inspired variant with muted tones and eclipse-like depth.</i><br><br>
+  <img src="https://github.com/Mo-metwally/Ethereal-Nexus/blob/main/images/ethereal-nexus-themes-8.png" width="100%">
+</p>
 
 ---
-
 ## Notes on Code Usage
 - Some code for **editor line color changes** is adapted from the **Dark One Pro** theme.  
   - Usage is **limited** and only applies to certain themes within this collection.  

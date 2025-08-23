@@ -1,7 +1,7 @@
 {
     // at roaming/code/user/themes/lolo.json
     "$schema": "vscode://schemas/color-theme",
-    "name": "Willow Wisp",
+    "name": "Willow Wisp Atom (Font Changes)",
     "type": "dark",
     "colors": {
         "editor.background": "#141312",
