@@ -1,0 +1,23 @@
+Ethereal Nexus - VS Code Theme Collection
+© 2025 Mohamed Metwally
+
+Website: https://mohammed-metwally.web.app/
+Issues / Extension Repository: https://github.com/Mo-metwally/Ethereal-Nexus/issues
+
+This extension, "Ethereal Nexus", is primarily developed by Mohamed Metwally. 
+It is a collection of custom VS Code themes with unique color palettes and design.
+
+Some code for editor line color changes is adapted from "Dark One Pro" theme. 
+This use is limited and only applies to certain themes within this collection.
+
+All other code and theme definitions are original or derived from VS Code's default themes, which are open source.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this extension and associated files to use, copy, modify, and distribute the extension,
+subject to the following conditions:
+
+1. You must give appropriate credit to the original authors where applicable.
+2. Any redistribution must include this LICENSE file.
+3. You may not claim this extension as your own work if using parts from "Dark One Pro".
+
+THE EXTENSION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.

@@ -3,17 +3,23 @@
     "@id": "m-metwally.ethereal-nexus",
     "displayName": "Ethereal Nexus",
     "description": "Ethereal Nexus is a dark, immersive theme collection blending deep black backgrounds with six mystical hues: Rosewood Ember, Sandstone Whisper, Moonlit Frost, Ethereal Mist, Willow Wisp, and Sunlit Aura.",
-    "version": "1.0.0",
+    "version": "1.0.4",
     "publisher": "m.metwally",
     "engines": {
         "vscode": "^1.70.0"
     },
-    "icon": "images/icon.png",
     "galleryImages": [
-        "images/screenshot1.png",
-        "images/screenshot2.png",
-        "images/screenshot3.png"
+        "images/ethereal-nexus-themes.png",
+        "images/ethereal-nexus-themes (1).png",
+        "images/ethereal-nexus-themes (2).png",
+        "images/ethereal-nexus-themes (3).png",
+        "images/ethereal-nexus-themes (4).png",
+        "images/ethereal-nexus-themes (5).png",
+        "images/ethereal-nexus-themes (6).png",
+        "images/ethereal-nexus-themes (7).png",
+        "images/ethereal-nexus-themes (8).png"
     ],
+    "icon": "images/icon.png",
     "categories": [
         "Themes"
     ],
@@ -36,7 +42,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Rosewood Ember (Font Changes)",
+                "label": "Rosewood Ember",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/rosewood-ember/RosewoodEmber.json"
             },
@@ -56,7 +62,7 @@
                 "path": "./ethereal-nexus-themes/rosewood-ember/RosewoodEmberDust.json"
             },
             {
-                "label": "Sandstone Whisper (Font Changes)",
+                "label": "Sandstone Whisper",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/sandstone-whisper/SandstoneWhisper.json"
             },
@@ -76,7 +82,7 @@
                 "path": "./ethereal-nexus-themes/sandstone-whisper/SandstoneWhisperEclipse.json"
             },
             {
-                "label": "Moonlit Frost (Font Changes)",
+                "label": "Moonlit Frost",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/moonlit-frost/MoonlitFrost.json"
             },
@@ -96,7 +102,7 @@
                 "path": "./ethereal-nexus-themes/moonlit-frost/MoonlitFrostOcean.json"
             },
             {
-                "label": "Ethereal Mist (Font Changes)",
+                "label": "Ethereal Mist",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/ethereal-mist/EtherealMist.json"
             },
@@ -116,7 +122,7 @@
                 "path": "./ethereal-nexus-themes/ethereal-mist/EtherealMistEclipse.json"
             },
             {
-                "label": "Willow Wisp (Font Changes)",
+                "label": "Willow Wisp",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/willow-wisp/WillowWisp.json"
             },
@@ -136,7 +142,7 @@
                 "path": "./ethereal-nexus-themes/willow-wisp/WillowWispForst.json"
             },
             {
-                "label": "The House (Font Changes)",
+                "label": "The House",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/the-house/TheHouse.json"
             },
@@ -156,7 +162,7 @@
                 "path": "./ethereal-nexus-themes/the-house/TheHouseMine.json"
             },
             {
-                "label": "The House Nude (Font Changes)",
+                "label": "The House Nude",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/the-house/TheHouseNude.json"
             },
