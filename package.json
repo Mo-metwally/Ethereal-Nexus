@@ -36,142 +36,142 @@
     "contributes": {
         "themes": [
             {
-                "label": "Rosewood Ember",
+                "label": "Rosewood Ember (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/rosewood-ember/RosewoodEmber.json"
             },
             {
-                "label": "Rosewood Ember Atom",
+                "label": "Rosewood Ember Atom (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/rosewood-ember/RosewoodEmberAtom.json"
             },
             {
-                "label": "Rosewood Ember Classic",
+                "label": "Rosewood Ember Classic (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/rosewood-ember/RosewoodEmberClassic.json"
             },
             {
-                "label": "Rosewood Ember Dust",
+                "label": "Rosewood Ember Dust (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/rosewood-ember/RosewoodEmberDust.json"
             },
             {
-                "label": "Sandstone Whisper",
+                "label": "Sandstone Whisper (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/sandstone-whisper/SandstoneWhisper.json"
             },
             {
-                "label": "Sandstone Whisper Atom",
+                "label": "Sandstone Whisper Atom (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/sandstone-whisper/SandstoneWhisperAtom.json"
             },
             {
-                "label": "Sandstone Whisper Classic",
+                "label": "Sandstone Whisper Classic (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/sandstone-whisper/SandstoneWhisperClassic.json"
             },
             {
-                "label": "Sandstone Whisper Eclipse",
+                "label": "Sandstone Whisper Eclipse (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/sandstone-whisper/SandstoneWhisperEclipse.json"
             },
             {
-                "label": "Moonlit Frost",
+                "label": "Moonlit Frost (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/moonlit-frost/MoonlitFrost.json"
             },
             {
-                "label": "Moonlit Frost Atom",
+                "label": "Moonlit Frost Atom (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/moonlit-frost/MoonlitFrostAtom.json"
             },
             {
-                "label": "Moonlit Frost Classic",
+                "label": "Moonlit Frost Classic (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/moonlit-frost/MoonlitFrostClassic.json"
             },
             {
-                "label": "Moonlit Frost Ocean",
+                "label": "Moonlit Frost Ocean (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/moonlit-frost/MoonlitFrostOcean.json"
             },
             {
-                "label": "Ethereal Mist",
+                "label": "Ethereal Mist (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/ethereal-mist/EtherealMist.json"
             },
             {
-                "label": "Ethereal Mist Atom",
+                "label": "Ethereal Mist Atom (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/ethereal-mist/EtherealMistAtom.json"
             },
             {
-                "label": "Ethereal Mist Classic",
+                "label": "Ethereal Mist Classic (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/ethereal-mist/EtherealMistClassic.json"
             },
             {
-                "label": "Ethereal Mist Eclipse",
+                "label": "Ethereal Mist Eclipse (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/ethereal-mist/EtherealMistEclipse.json"
             },
             {
-                "label": "Willow Wisp",
+                "label": "Willow Wisp (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/willow-wisp/WillowWisp.json"
             },
             {
-                "label": "Willow Wisp Atom",
+                "label": "Willow Wisp Atom (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/willow-wisp/WillowWispAtom.json"
             },
             {
-                "label": "Willow Wisp Classic",
+                "label": "Willow Wisp Classic (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/willow-wisp/WillowWispClassic.json"
             },
             {
-                "label": "Willow Wisp Frost",
+                "label": "Willow Wisp Frost (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/willow-wisp/WillowWispForst.json"
             },
             {
-                "label": "The House",
+                "label": "The House (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/the-house/TheHouse.json"
             },
             {
-                "label": "The House Atom",
+                "label": "The House Atom (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/the-house/TheHouseAtom.json"
             },
             {
-                "label": "The House Classic",
+                "label": "The House Classic (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/the-house/TheHouseClassic.json"
             },
             {
-                "label": "The House Mine",
+                "label": "The House Mine (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/the-house/TheHouseMine.json"
             },
             {
-                "label": "The House Nude",
+                "label": "The House Nude (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/the-house/TheHouseNude.json"
             },
             {
-                "label": "The House Nude Atom",
+                "label": "The House Nude Atom (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/the-house/TheHouseNudeAtom.json"
             },
             {
-                "label": "The House Nude Classic",
+                "label": "The House Nude Classic (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/the-house/TheHouseNudeClassic.json"
             },
             {
-                "label": "The House Nude Mine",
+                "label": "The House Nude Mine (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/the-house/TheHouseNudeMine.json"
             }

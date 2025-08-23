@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "The House Atom",
+    "name": "The House Atom (Font Changes)",
     "type": "dark",
     "colors": {
         "editor.background": "#0D0D0D",

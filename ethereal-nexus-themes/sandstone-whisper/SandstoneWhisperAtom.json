@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "Sandstone Whisper Atom",
+    "name": "Sandstone Whisper Atom (Font Changes)",
     "type": "dark",
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,

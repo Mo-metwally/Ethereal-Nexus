@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "Ethereal Mist Atom",
+    "name": "Ethereal Mist Atom (Font Changes)",
     "type": "dark",
     "colors": {
         "editor.background": "#121214",

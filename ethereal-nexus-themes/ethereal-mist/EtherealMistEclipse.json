@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "Ethereal Mist Eclipse",
+    "name": "Ethereal Mist Eclipse (Font Changes)",
     "type": "dark",
     "colors": {
         "editor.background": "#121214",
