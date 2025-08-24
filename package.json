@@ -3,7 +3,7 @@
     "@id": "ethereal-nexus.m-metwally",
     "displayName": "Ethereal Nexus",
     "description": "Ethereal Nexus is a dark, immersive theme collection blending deep black backgrounds with six mystical hues: Rosewood Ember, Sandstone Whisper, Moonlit Frost, Ethereal Mist, Willow Wisp, and Sunlit Aura.",
-    "version": "1.0.17",
+    "version": "1.0.22",
     "publisher": "mmetwally",
     "activationEvents": [
         "onStartupFinished"
