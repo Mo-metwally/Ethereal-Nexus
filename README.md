@@ -16,7 +16,8 @@ It blends deep black backgrounds with six mystical hues:
 - Moonlit Frost  
 - Ethereal Mist  
 - Willow Wisp  
-- Sunlit Aura  
+- The House 
+- The House Nude
 
 This collection is designed to create a visually appealing, consistent, and readable coding environment.
 
