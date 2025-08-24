@@ -1,7 +1,7 @@
 {
     // at roaming/code/user/themes/lolo.json
     "$schema": "vscode://schemas/color-theme",
-    "name": "Rosewood Ember Atom (Font Changes)",
+    "name": "Rosewood Ember",
     "type": "dark",
     "colors": {
         "editor.background": "#141212",
@@ -115,12 +115,12 @@
         "editor.selectionForeground": "#FFFFFF", // نص العنصر المحدد
         // تخصيص ألوان التيرمنال
         "terminal.background": "#1e1e1e00", // الخلفية الشفافة
-        "terminal.foreground": "#fdecdd", // النص في التيرمنال
+        "terminal.foreground": "#fde1dd", // النص في التيرمنال
         "terminal.selectionBackground": "#832020d3", // خلفية النص المحدد في التيرمنال
         "terminalCursor.background": "#ffa285", // خلفية المؤشر في التيرمنال
         // تخصيص ألوان الـ ANSI (التيرمنال)
         // تخصيص ألوان التحديد في التيرمنال
-        "terminal.selectionForeground": "#fffbf3", // لون النص المحدد
+        "terminal.selectionForeground": "#fff6f3", // لون النص المحدد
         "terminal.inactiveSelectionBackground": "#3E2A1F", // خلفية النص المحدد عندما لا يكون التيرمنال في التركيز
         // تخصيص ألوان البحث في التيرمنال
         "terminal.findMatchBackground": "#ff79c5d3", // خلفية التحديد عند البحث في التيرمنال
@@ -130,7 +130,7 @@
         // تخصيص التظليل عند تمرير الماوس على رابط في التيرمنال
         "terminal.hoverHighlightBackground": "#8be8fd9a", // التظليل عند المرور على رابط في التيرمنال
         // تخصيص ألوان الكرسر في التيرمنال
-        "terminalCursor.foreground": "#F2BF80", // لون المؤشر في التيرمنال
+        "terminalCursor.foreground": "#f2a080", // لون المؤشر في التيرمنال
         // تخصيص خلفية السحب فوق التيرمنال
         "terminal.dropBackground": "#1E1E1E80", // الخلفية أثناء السحب في التيرمنال
         // تخصيص حدود التاب في التيرمنال

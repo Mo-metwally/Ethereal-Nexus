@@ -115,12 +115,12 @@
         "editor.selectionForeground": "#FFFFFF", // نص العنصر المحدد
         // تخصيص ألوان التيرمنال
         "terminal.background": "#1e1e1e00", // الخلفية الشفافة
-        "terminal.foreground": "#fdecdd", // النص في التيرمنال
+        "terminal.foreground": "#f3fddd", // النص في التيرمنال
         "terminal.selectionBackground": "#5d8320d3", // خلفية النص المحدد في التيرمنال
         "terminalCursor.background": "#86995b", // خلفية المؤشر في التيرمنال
         // تخصيص ألوان الـ ANSI (التيرمنال)
         // تخصيص ألوان التحديد في التيرمنال
-        "terminal.selectionForeground": "#fffbf3", // لون النص المحدد
+        "terminal.selectionForeground": "#f8fff3", // لون النص المحدد
         "terminal.inactiveSelectionBackground": "#3E2A1F", // خلفية النص المحدد عندما لا يكون التيرمنال في التركيز
         // تخصيص ألوان البحث في التيرمنال
         "terminal.findMatchBackground": "#ff79c5d3", // خلفية التحديد عند البحث في التيرمنال
@@ -130,7 +130,7 @@
         // تخصيص التظليل عند تمرير الماوس على رابط في التيرمنال
         "terminal.hoverHighlightBackground": "#8be8fd9a", // التظليل عند المرور على رابط في التيرمنال
         // تخصيص ألوان الكرسر في التيرمنال
-        "terminalCursor.foreground": "#F2BF80", // لون المؤشر في التيرمنال
+        "terminalCursor.foreground": "#bdf280", // لون المؤشر في التيرمنال
         // تخصيص خلفية السحب فوق التيرمنال
         "terminal.dropBackground": "#1E1E1E80", // الخلفية أثناء السحب في التيرمنال
         // تخصيص حدود التاب في التيرمنال
