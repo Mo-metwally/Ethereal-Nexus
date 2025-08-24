@@ -45,7 +45,7 @@
         "statusBar.debuggingBorder": "#85b6ff",
         "statusBar.focusBorder": "#8789a3",
         "statusBarItem.remoteBackground": "#77aae4",
-        "statusBarItem.remoteForeground": "#12140c",
+        "statusBarItem.remoteForeground": "#0c0f14",
         "statusBarItem.hoverBackground": "#0c1014",
         "statusBarItem.hoverForeground": "#8789a3",
         "titleBar.activeForeground": "#5b7699",

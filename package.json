@@ -3,8 +3,8 @@
     "@id": "ethereal-nexus.m-metwally",
     "displayName": "Ethereal Nexus",
     "description": "Ethereal Nexus is a dark, immersive theme collection blending deep black backgrounds with six mystical hues: Rosewood Ember, Sandstone Whisper, Moonlit Frost, Ethereal Mist, Willow Wisp, and Sunlit Aura.",
-    "version": "1.0.14",
-    "publisher": "m.metwally",
+    "version": "1.0.17",
+    "publisher": "mmetwally",
     "activationEvents": [
         "onStartupFinished"
     ],
@@ -141,7 +141,7 @@
                 "path": "./ethereal-nexus-themes/willow-wisp/WillowWispClassic.json"
             },
             {
-                "label": "Willow Wisp Frost (Font Changes)",
+                "label": "Willow Wisp Forset (Font Changes)",
                 "uiTheme": "vs-dark",
                 "path": "./ethereal-nexus-themes/willow-wisp/WillowWispForest.json"
             },
